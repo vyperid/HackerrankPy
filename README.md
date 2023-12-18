@@ -24,3 +24,4 @@ discard_remove_pop.py : https://www.hackerrank.com/challenges/py-set-discard-rem
 
 capitalize.py : https://www.hackerrank.com/challenges/capitalize/problem
 
+designerDoorMat.py : https://www.hackerrank.com/challenges/designer-door-mat/problem
